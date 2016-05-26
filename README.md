@@ -9,8 +9,8 @@ Depdencies
 This script depends on [couchdbkit](http://couchdbkit.org/). To install or upgrade to the latest
 version
 
-    1. Install couchdbkit: http://couchdbkit.org/download.html
-    2. Install a supported JSON module for Python. This script also requires a supported JSON module for Python. You can use
+1. Install couchdbkit: http://couchdbkit.org/download.html
+2. Install a supported JSON module for Python. This script also requires a supported JSON module for Python. You can use
 cjson (or simplejson, or probably a few others if you like). Debian/Ubuntu have a package called python-cjson, which works.
 
 Usage
