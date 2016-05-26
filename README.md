@@ -7,7 +7,7 @@ Dependencies
 ------------
 
 This script depends on [couchdbkit](http://couchdbkit.org/). To install or upgrade to the latest
-version
+version:
 
 1. Install couchdbkit: http://couchdbkit.org/download.html
 2. Install a supported JSON module for Python. This script also requires a supported JSON module for Python. You can use
