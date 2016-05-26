@@ -3,7 +3,7 @@ CouchDB View Update
 
 This is a Python script that triggers view updates for all views in all design documents in all databases in all CouchDB instances that you supply as arguments to it.
 
-Depdencies
+Dependencies
 ------------
 
 This script depends on [couchdbkit](http://couchdbkit.org/). To install or upgrade to the latest
